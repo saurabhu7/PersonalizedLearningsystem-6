@@ -1,3 +1,4 @@
+wheel
 streamlit
 pdfplumber
 langchain
@@ -9,3 +10,4 @@ scikit-learn
 deep-translator
 matplotlib
 wordcloud
+faiss-cpu
