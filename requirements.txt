@@ -5,4 +5,3 @@ langchain-google-genai
 python-docx
 pandas
 scikit-learn
-streamlit
