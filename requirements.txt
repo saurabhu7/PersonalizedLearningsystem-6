@@ -2,7 +2,7 @@ streamlit
 pdfplumber
 langchain
 langchain-google-genai
-python-dotenv
+python-docx
 pandas
 scikit-learn
 streamlit
